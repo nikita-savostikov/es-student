@@ -24,7 +24,7 @@ int main()
 
         if (previous == true && current == false)
         {
-            led !=led;
+            led =!led;
             gpio_put(LED_PIN, led);
         }
 
