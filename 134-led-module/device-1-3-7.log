@@ -1,0 +1,14 @@
+задание: 1.3.7
+проект: 134-led-module
+устройство: 2e8a:000a
+серийный номер: 5303284730FA759C
+порт: /dev/cu.usbmodem101
+начало: 2026-10-17T23:42:12
+   0.000 --> i
+   0.010 <-- dbg main:78 got i
+   0.010 <-- project: 134-led-module
+   0.011 <-- repo: https://github.com/nikita-savostikov/es-student
+   0.011 <-- board: pico
+   0.011 <-- serial: 5303284730FA759C
+   0.011 <-- chip: manufacturer 0x927, part 0x0002, revision 2
+итог: принято строк 6
