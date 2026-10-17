@@ -1,8 +1,4 @@
 build/
 .vscode/
-.DS_Store
-112-blink/
-121-blink-reg/
-122-led-button/
-123-led-button-debounce/
-131-hello-usb/
+.DS_Store/
+check_ignore/
